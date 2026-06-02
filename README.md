@@ -36,19 +36,19 @@ $\color{#b893e5}{\textsf{guiding.light on disc if i miss yr whisp ‎ ‎ ‎ �
 <br> 
 <br> 
 <br> 
-<br> 
-
-<img src="https://file.garden/ahMHvma4rlrxNi-s/night_fury_wemmbu_1.png#left" width="450" align="left">
-&nbsp; &nbsp; &nbsp; &nbsp;
+<br>
    <img src="https://i.postimg.cc/mk4RzTHq/asset3bigger.png" 
       width="30%" 
-      align="center"/> 
+      align="right"/> 
 
+&nbsp; &nbsp; &nbsp; &nbsp;
 <h6 align="center">$\color{#9175b2}{\textsf{I wouldn't kill him, }}$<br>
 $\color{#9175b2}{\textsf{because he looked as frightened as I was.}}$<br>
 $\color{#9175b2}{\textsf{I looked at him… and I saw myself.}}$</h6>
 
-<img src="https://i.postimg.cc/8zmKr2F9/asset3.png" width="30%" align="center"/> 
+<img src="https://i.postimg.cc/8zmKr2F9/asset3.png" width="30%" align="right"/> 
+
+<img src="https://file.garden/ahMHvma4rlrxNi-s/night_fury_wemmbu_1.png#left" width="450" align="left">
 <br> 
 <br> 
 <br> 
