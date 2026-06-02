@@ -22,12 +22,12 @@ $\color{#9175b2}{\textsf{The unholy offspring of lightning and death itself. Nev
   align="right"/>
 <br> 
 
-<h4 align="left">$\color{#b893e5}{\textsf{‎ ‎ ‎  ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ˚⟡ ˖ ࣪  wyvern / wemmbu / storm  ₊˚⊹ ˙  ~  nicknames encouraged}}$<br>
+<h4 align="right">$\color{#b893e5}{\textsf{‎ ‎ ‎  ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ˚⟡ ˖ ࣪  wyvern / wemmbu / storm  ₊˚⊹ ˙  ~  nicknames encouraged}}$<br>
 $\color{#b893e5}{\textsf{ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎  ‎ u can make up whtvr pronouns 4 me, jst don't use they/them}}$<br>
 $\color{#b893e5}{\textsf{ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ bodily 21. don't try2 add me if yr under 16}}$<br>
 $\color{#b893e5}{\textsf{ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ mascandrogyne + polysexual}}$</h4>
 
-<h4 align="right">$\color{#b893e5}{\textsf{join my smp c: ‎ ‎  ‎  ‎  ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ }}$<br>
+<h4 align="lef">$\color{#b893e5}{\textsf{join my smp c: ‎ ‎  ‎  ‎  ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ }}$<br>
 $\color{#b893e5}{\textsf{adults only, whisp for info. ‎ ‎  ‎ ‎ ‎   ‎ ‎  ‎ ‎ ‎ ‎  ‎ }}$<br>
 $\color{#b893e5}{\textsf{guiding.light on disc if i miss yr whisp ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎   ‎ ‎ }}$</h4>
 <br> 
@@ -37,18 +37,18 @@ $\color{#b893e5}{\textsf{guiding.light on disc if i miss yr whisp ‎ ‎ ‎ �
 <br> 
 <br> 
 <br>
+<img src="https://file.garden/ahMHvma4rlrxNi-s/night_fury_wemmbu_1.png#left" width="450" align="left">
    <img src="https://i.postimg.cc/mk4RzTHq/asset3bigger.png" 
       width="30%" 
       align="right"/> 
 
 &nbsp; &nbsp; &nbsp; &nbsp;
-<h6 align="center">$\color{#9175b2}{\textsf{I wouldn't kill him, }}$<br>
+<h6 align="right">$\color{#9175b2}{\textsf{I wouldn't kill him, }}$<br>
 $\color{#9175b2}{\textsf{because he looked as frightened as I was.}}$<br>
 $\color{#9175b2}{\textsf{I looked at him… and I saw myself.}}$</h6>
 
 <img src="https://i.postimg.cc/8zmKr2F9/asset3.png" width="30%" align="right"/> 
 
-<img src="https://file.garden/ahMHvma4rlrxNi-s/night_fury_wemmbu_1.png#left" width="450" align="left">
 <br> 
 <br> 
 <br> 
