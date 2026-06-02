@@ -18,7 +18,7 @@ $\color{#9175b2}{\textsf{The unholy offspring of lightning and death itself. Nev
   width="500"/>
    <br>
 <img src="https://i.postimg.cc/28SzgGCM/wemmburemovebg.png"
-  height="400"
+  height="350"
   align="right"/>
 <br> 
 
