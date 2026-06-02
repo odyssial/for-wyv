@@ -30,6 +30,13 @@ $\color{#b893e5}{\textsf{ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ m
 <h4 align="right">$\color{#b893e5}{\textsf{join my smp c: ‎ ‎  ‎  ‎  ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ }}$<br>
 $\color{#b893e5}{\textsf{adults only, whisp for info. ‎ ‎  ‎ ‎ ‎   ‎ ‎  ‎ ‎ ‎ ‎  ‎ }}$<br>
 $\color{#b893e5}{\textsf{guiding.light on disc if i miss yr whisp ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎   ‎ ‎ }}$</h4>
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
 
 <img src="https://file.garden/ahMHvma4rlrxNi-s/night_fury_wemmbu_1.png#left" width="450" align="left">
 &nbsp; &nbsp; &nbsp; &nbsp;
