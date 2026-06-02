@@ -30,33 +30,10 @@ $\color{#b893e5}{\textsf{ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ m
 <h4 align="lef">$\color{#b893e5}{\textsf{join my smp c: ‎ ‎  ‎  ‎  ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ }}$<br>
 $\color{#b893e5}{\textsf{adults only, whisp for info. ‎ ‎  ‎ ‎ ‎   ‎ ‎  ‎ ‎ ‎ ‎  ‎ }}$<br>
 $\color{#b893e5}{\textsf{guiding.light on disc if i miss yr whisp ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎   ‎ ‎ }}$</h4>
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
+
 <br>
-<img src="https://file.garden/ahMHvma4rlrxNi-s/night_fury_wemmbu_1.png#left" width="450" align="left">
-   <img src="https://i.postimg.cc/mk4RzTHq/asset3bigger.png" 
-      width="30%" 
-      align="right"/> 
-
-&nbsp; &nbsp; &nbsp; &nbsp;
-<h6 align="right">$\color{#9175b2}{\textsf{I wouldn't kill him, }}$<br>
-$\color{#9175b2}{\textsf{because he looked as frightened as I was.}}$<br>
-$\color{#9175b2}{\textsf{I looked at him… and I saw myself.}}$</h6>
-
-<img src="https://i.postimg.cc/8zmKr2F9/asset3.png" width="30%" align="right"/> 
-
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
-<br> 
+<br>
+<br>
  <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=c4ip3y4ortb93d1spfy2xr1jm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=5c2f75&bar_color_cover=false" align="left">
   </a>
